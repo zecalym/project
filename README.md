@@ -14,6 +14,10 @@
 
 This project was created to show the usage of social media, which gender uses the media the most and what media is used the most Also, it shows the age of people who are liking consuming the social media. By analyzing this data, we seek to identify trends, make data- driven recommendation and make deeper understanding on the social media usage.
 
+[Social Media.pdf](https://github.com/user-attachments/files/16767572/Social.Media.pdf)
+
+
+
 ### Data Source
 
 The primary data use for this analysis is from Kaggle
